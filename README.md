@@ -3,7 +3,7 @@
 I'm an Android Software Engineer delivering apps to hundreds of millions of users and leading the team of talented developers.
 
 ### 🚀 About Me
-* 🌍 Based in Taiwan 🇹🇼, originally from 🇷🇺
+* 🌍 Based in Taiwan and UAE, originally from Russia
 * 💼 Senior Android dev with 7 years of experience
 * 📚 Passionate about mentoring and educating
 * 🛠️ Always learning and exploring new technologies
